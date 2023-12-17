@@ -23,6 +23,7 @@
    ![Question 2](https://github.com/2010kira2010/test-gb-1/blob/main/screenshots/2.png?raw=true)
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
    из этого репозитория.
+   ![Question 3](https://github.com/2010kira2010/test-gb-1/blob/main/screenshots/3.png?raw=true)
 4. Установить и удалить deb-пакет с помощью dpkg.
 5. Выложить историю команд в терминале ubuntu
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
