@@ -28,10 +28,11 @@
    ![Question 4](https://github.com/2010kira2010/test-gb-1/blob/main/screenshots/4.png?raw=true)
 5. Выложить [историю](https://github.com/2010kira2010/test-gb-1/blob/main/HistoryCommands.md) команд в терминале ubuntu
    ![Question 5](https://github.com/2010kira2010/test-gb-1/blob/main/screenshots/5.png?raw=true)
-6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
+6. Нарисовать [диаграмму](https://github.com/2010kira2010/test-gb-1/blob/main/animals.drawio), в которой есть класс родительский класс, домашние
    животные и вьючные животные, в составы которых в случае домашних
    животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
    войдут: Лошади, верблюды и ослы).
+   ![Question 6](https://github.com/2010kira2010/test-gb-1/blob/main/screenshots/6.png?raw=true)
 7. В подключенном MySQL репозитории создать базу данных “Друзья
    человека”
 8. Создать таблицы с иерархией из диаграммы в БД
