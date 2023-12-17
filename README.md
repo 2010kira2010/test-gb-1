@@ -20,6 +20,7 @@
    Переименовать файл, дав ему новое имя (Друзья человека).
    ![Question 1](https://github.com/2010kira2010/test-gb-1/blob/main/screenshots/1.png?raw=true)
 2. Создать директорию, переместить файл туда.
+   ![Question 2](https://github.com/2010kira2010/test-gb-1/blob/main/screenshots/2.png?raw=true)
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
    из этого репозитория.
 4. Установить и удалить deb-пакет с помощью dpkg.
