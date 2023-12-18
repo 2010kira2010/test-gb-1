@@ -192,6 +192,7 @@ FROM animals_tmp WHERE birthday BETWEEN ADDDATE(curdate(), INTERVAL -3 YEAR) AND
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
     прошлую принадлежность к старым таблицам.
 ```sql
+CREATE TABLE all_animals AS
 SELECT h.name, h.birthday, h.commands, pa.animals_id, ya.age 
 FROM horses h
 LEFT JOIN young_animals ya ON ya.name = h.name
